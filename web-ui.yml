@@ -1,3 +1,8 @@
+pivotal:
+  app:
+    symbols:
+      it: EMC,ORCL,IBM,APPL
+      fs: JPM,C,MS,BAC,GS,WFC,BK
 ---
 spring:
   profiles: local
