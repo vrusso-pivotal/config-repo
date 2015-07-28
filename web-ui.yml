@@ -2,7 +2,7 @@ pivotal:
   app:
     symbols:
       it: EMC,IBM,AAPL,GOOG
-      fs: JPM,C,MS,BAC,GS,WFC,BK
+      fs: JPM,C,MS,BAC,GS,WFC
 ---
 spring:
   profiles: local
