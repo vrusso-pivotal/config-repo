@@ -1,7 +1,7 @@
 pivotal:
   app:
     symbols:
-      it: EMC,ORCL,IBM,APPL
+      it: EMC,ORCL,IBM,AAPL,GOOG
       fs: JPM,C,MS,BAC,GS,WFC,BK
 ---
 spring:
