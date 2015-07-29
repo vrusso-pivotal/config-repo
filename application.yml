@@ -17,6 +17,9 @@ logging:
      com:
         netflix: WARN
 
+endpoints
+   health
+     sensitive: false
 ---
 spring:
   profiles: cloud
