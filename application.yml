@@ -25,6 +25,10 @@ spring:
    zipkin:
       host: opsmgr.vert.fe.gopivotal.com
       port: 9410
+   sleuth:
+      log:
+        json:
+          enabled: true
 ---
 spring:
   profiles: cloud
