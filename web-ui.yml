@@ -1,7 +1,7 @@
 pivotal:
   app:
     symbols:
-      it: EMC,VMW
+      it: EMC,VMW,HP
       fs: JPM,C,MS,BAC,GS,WFC
 ---
 spring:
