@@ -1,1 +1,3 @@
 greeting: hello
+foo: from foo props
+democonfigclient.message: hello spring io
